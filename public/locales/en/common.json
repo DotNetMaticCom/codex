@@ -1,0 +1,20 @@
+{
+  "sales": "Sales",
+  "accounting": "Accounting",
+  "hr": "HR",
+  "createQuote": "Create New Quote",
+  "recentSales": "Recent Sales",
+  "revenue": "Revenue",
+  "profit": "Profit",
+  "employees": "Employees",
+  "user": "User",
+  "codexERP": "Codex ERP",
+  "customer": "Customer",
+  "amount": "Amount",
+  "date": "Date",
+  "department": "Department",
+  "inventory": "Inventory",
+  "production": "Production",
+  "projectManagement": "Project Management",
+  "welcome": "Welcome"
+}

@@ -1,0 +1,20 @@
+{
+  "sales": "Satış",
+  "accounting": "Muhasebe",
+  "hr": "İK",
+  "createQuote": "Yeni Teklif Oluştur",
+  "recentSales": "Son Satışlar",
+  "revenue": "Gelir",
+  "profit": "Kar",
+  "employees": "Çalışanlar",
+  "user": "Kullanıcı",
+  "codexERP": "Codex ERP",
+  "customer": "Müşteri",
+  "amount": "Tutar",
+  "date": "Tarih",
+  "department": "Departman",
+  "inventory": "Envanter",
+  "production": "Üretim",
+  "projectManagement": "Proje Yönetimi",
+  "welcome": "Hoşgeldiniz"
+}
